@@ -1,0 +1,4 @@
+# Ignore all .sav files except ones with solo exper prefix
+*.sav
+
+!solo exper*
